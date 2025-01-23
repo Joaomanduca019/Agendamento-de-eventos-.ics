@@ -82,3 +82,5 @@ with open(arquivo_todos_eventos, "a") as f_todos:
         f_todos.write(evento)
 
 print(f"Arquivo consolidado atualizado: {arquivo_todos_eventos}")
+
+#feito
